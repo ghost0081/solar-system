@@ -1,6 +1,3 @@
-/* author: https://codepen.io/jcoulterdesign/pen/ZxXbeP
-Jamie Coulter
- */
 
  @import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,700");
  .solar_systm {
@@ -14,13 +11,13 @@ Jamie Coulter
  
  * {
    -webkit-user-select: none;
-   /* Chrome all / Safari all */
+ 
    -moz-user-select: none;
-   /* Firefox all */
+
    -ms-user-select: none;
-   /* IE 10+ */
+
    user-select: none;
-   /* Likely future */
+ 
  }
  
  body .solar_systm .planet, body input[type=radio][name=planet]::after, body .overlay {
